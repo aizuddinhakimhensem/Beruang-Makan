@@ -1,0 +1,6 @@
+{
+  "name": "BeruangMakan",
+  "description": "Sistem Rujukan Seni Bina & Platform Penghantaran Makanan BeruangMakan Malaysia (Skema PostgreSQL, API REST, Struktur Project & Wireframe Interaktif BM/Jawi).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
